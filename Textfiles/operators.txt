@@ -1,0 +1,6 @@
+Operators:- Symbols to perform different operations between two operands or more than two operands.
+Types of operators:-
+(1) Arithmetic Operators:- + , -, *, /, %, **.
+(2) Relational/Comparison Operators:- ==, !=, >, <, >=, <=.
+(3) Assignment Operators:- =, +=, -=, *=, /=, %=, **=.
+(4) Logical Operators:- not, and, or.

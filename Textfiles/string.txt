@@ -1,0 +1,27 @@
+• Strings - it is a data type that stores a sequence of characters.
+
+Basic Operations:-
+(1) Concatenation-
+      "Hello" + "World"  -> "HelloWorld"
+    
+(2) Length of str
+      len(str)
+
+• Indexing - position assigned to individual character of a string.
+  Example:- GAURAV
+            |||||| 
+            123456
+
+• Slicing:- Accessing parts of a string
+ Example:- str=Gaurav  
+           GAURAV
+           ||||||
+           012345
+           str[0:3]
+    Output:- GAU
+Negative Indexing For slicing:-
+        G A U R A V
+        | | | | | |
+       -6-5-4-3-2-1        
+        str[-6:-3]
+    Output:- GAU

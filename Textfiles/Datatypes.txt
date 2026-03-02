@@ -1,0 +1,6 @@
+DATATYPES:-
+(1) Integer(int):- positive, negative, 0
+(2) Float:- 3.99, 1.99 , 5.99
+(3) String :- characters (alphabets,words, para, senetence)
+(4) Boolean :- true/false
+(5) None :- a=None

@@ -1,0 +1,9 @@
+RULES FOR IDENTIFIERS:-
+(1) They can be combination of upper and lowercase letters, digits or an underscore. 
+(2) Cannot start with the digit. 
+(3) We cannot use special symbols like !,#,@,%,$,etc in our identifier.
+(4) It can be of any length.
+
+Example - 
+=>correct :- myvariable, my_variable, my_variable1, My_variable123.
+=>incorrect :- my variable , 1myvariable , my@variable.

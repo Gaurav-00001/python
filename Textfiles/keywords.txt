@@ -1,0 +1,9 @@
+KEYWORDS:- reserved words in python language
+Example:- true, false, break, continue,jump ,etc.
+
+COMMENTS:- they are not meant to be executed.
+-> They are for writing important lines related to your code so that user can know about your code.
+Types of Comments:-
+(1) Single line Comments- using #
+
+(2) Multi line Comments:- using triple quotes(""" """)

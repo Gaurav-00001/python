@@ -1,0 +1,5 @@
+Type Comversion:- When we want to convert a variable of different data type into another data type is called type conversion.
+Example:- int->float
+
+Difference between TypeConversion and TypeCasting:-
+TypeConversion is done automatically in python whereas TypeCasting is a manual process which user has to do it.

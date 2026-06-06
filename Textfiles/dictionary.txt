@@ -1,0 +1,8 @@
+• Dictionary:- it is used to store key-value pair under curly braces{}.
+• They are mutuable, unordered and don't allow duplicate keys.
+• Operations allowed:-
+(1)keys():- myDict.keys()
+(2)items():- myDict.items()
+(3)values():- myDict.values()
+(4)get():- myDict.get("key")
+(5)update():- myDict.update(ele)

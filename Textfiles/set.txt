@@ -1,0 +1,12 @@
+• SET:- collection of unordered items.
+• each element in the set must be unique and immutable.
+• function:-
+(1)add():- set.add(element)
+(2)remove():- set.remove(element)
+(3)clear():- set.clear()
+(4)pop():-set.pop()
+(5)union:-set.union(set2)
+(6)intersection:-set.intersection(set2)
+null_set= set()
+
+Main point:- set is mutable but set's elements are immutable.

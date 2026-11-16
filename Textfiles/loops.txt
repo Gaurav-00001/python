@@ -1,0 +1,19 @@
+LOOPS IN PYTHON:- used to repeat a set of instructions until a specific condition is met.
+
+types of loops:-
+(1) while loop:- repeats a block of code as long as a condition evaluates to True.
+(2) for loop:- used for sequential traversal over iterables like lists, tuples, and strings.
+
+while loop structure:-
+(1) initialization:- setting up an iterator variable (e.g., i = 1).
+(2) condition:- stopping condition evaluated before each iteration.
+(3) increment/decrement:- updating the iterator (e.g., i += 1, i -= 1) to avoid infinite loops.
+
+important keywords:-
+(1) break:- terminates the loop entirely right where it is called.
+(2) continue:- skips the current iteration and jumps to the next iteration.
+(3) pass:- a null statement used as a placeholder for code to be written later.
+
+range() function:-
+(1) returns a sequence of numbers starting from 0 by default and incremented by 1.
+(2) syntax:- range(start, stop, step) where start and step are optional.
